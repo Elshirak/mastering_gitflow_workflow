@@ -19,4 +19,4 @@ During the course I've practised new commands of Git: branch, log, merge, tag, r
   <img src="https://user-images.githubusercontent.com/68464959/207850999-f3ddf10d-5960-4c3f-bea7-e00c9f38bb16.png" alt="Sublime's custom image"/>
 </p>
 
-I'm looking forvard hearing from you any comments on my work via Telegram [Telegram](https://t.me/elshirak) or e-mail: el.shirak@internet.ru
+I'm looking forvard hearing from you any comments on my work via [Telegram](https://t.me/elshirak) or e-mail: el.shirak@internet.ru
