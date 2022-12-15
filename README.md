@@ -13,7 +13,7 @@ On the picture below you can see work process a little bit.
   <img src="https://user-images.githubusercontent.com/68464959/207850791-af9ba07a-f884-4df6-b4b4-a9cc9b846a39.png" alt="Sublime's custom image"/>
 </p>
 
-During the course I've practised new commands of Git: branch, log, merge, tag, rebase, pull and others. Here you can see the final graph of this task:
+During the course I've practised new Git commands: branch, log, merge, tag, rebase, pull and others. Here you can see the final graph of this task:
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/68464959/207850999-f3ddf10d-5960-4c3f-bea7-e00c9f38bb16.png" alt="Sublime's custom image"/>
