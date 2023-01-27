@@ -1,4 +1,4 @@
-# mastering_gitflow_workflow
+# mastering_gitflow_workflow :chains:
 I'm going to create a Git repository with the commits shown in the commit graph below, this is the final project in [the course on Coursera](https://www.coursera.org/learn/version-control-with-git). There will be no code, just having fun with git. 
 
 ![image](https://user-images.githubusercontent.com/68464959/207818731-2928178c-05eb-4da5-b6d2-5016f2a1551c.png)
